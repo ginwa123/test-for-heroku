@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e14276a-b955-4ab4-9fb0-aa5aca6be38d": {
+      "ProjectGuid": "8e14276a-b955-4ab4-9fb0-aa5aca6be38d",
+      "DisplayName": "SampleForHeroku",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
